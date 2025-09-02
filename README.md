@@ -148,7 +148,7 @@ python -m flake8
 
 ## Support
 
-For help and support, contact: @runetech on Telegram
+For help and support, contact: [@runetech](https://t.me/runetech) on Telegram
 
 ---
 
